@@ -1,0 +1,46 @@
+Written #1
+
+For each of the loops below, specify:
+
+Whether the loop is infinite
+Whether an error would result
+If neither of the above, what would be printed to the terminal? Be specific with spacing, indentation, and line breaks.
+ 
+
+1A
+
+· The loop is not infinite
+· The error would not result
+· Terminal:
+1 "Danger, Will Robinson!"
+2 "Danger, Will Robinson!"
+3 "Danger, Will Robinson!"
+
+1B
+
+· The loop is not infinite
+· The error would not result
+· Terminal:
+1 "Lost in Space!"
+
+1C
+
+· The loop is infinite
+· The error would not result
+· Terminal:
+1 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2......
+
+2A
+
+Option1
+
+2B 
+
+2. It thinks good inputs (like “Sat”) are invalid.
+
+
+
+
+
+
+	
